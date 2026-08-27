@@ -71,6 +71,12 @@ The course is organized in three phases:
 
 The repository is configured with a [`.devcontainer/`](./.devcontainer/) that defines the default Python environment and dependencies required to run the exercises. The fastest way to get started and running your first lab is:
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/shankar-r10n/agent-optimization-workshop?quickstart=1)
+
+Click the badge above to launch a preconfigured Codespace. It builds the dev container, installs the workshop dependencies and tools, and opens the **Core Labs** overview (`labs/core/00-overview.md`) alongside this README so you can start right away.
+
+Prefer to set things up yourself?
+
 1. **Fork the repo** to your profile to get a sandbox you can modify
 1. **Launch the Dev Container** using GitHub Codespaces (browser) or Docker Desktop (device)
 
@@ -131,6 +137,8 @@ The core labs track takes you through the steps of the Agent DevOps loop using o
 | 5 | [Capstone — apply the loop to the Hosted Agent](./labs/core/05-capstone-hosted.md) | Optimize |
 
 Fundamentals prerequisites: [`labs/fundamentals/`](./labs/fundamentals/).
+
+Ready to dive in? [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/shankar-r10n/agent-optimization-workshop?quickstart=1)
 
 <br/>
 
